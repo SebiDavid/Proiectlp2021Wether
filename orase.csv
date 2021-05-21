@@ -1,0 +1,534 @@
+﻿,Orase
+0,Abrud
+1,Adjud
+2,Aiud
+3,Alba Iulia
+4,Aleşd
+5,Alexandria
+6,Agnita
+7,Anina
+8,Aninoasa
+9,Arad
+10,Avrig
+11,Azuga
+12,Babadag
+13,Bacău
+14,Baia de Aramă
+15,Baia de Arieş
+16,Baia Mare
+17,Baia Sprie
+18,Balş
+19,Baraolt
+20,Băicoi
+21,Băile Govora
+22,Băile Herculane
+23,Băile Olăneşti
+24,Băileşti
+25,Băile Tuşnad
+26,Bălan
+27,Bârlad
+28,Bocşa
+29,Borsec
+30,Beclean
+31,Beiuş
+32,Bereşti
+33,Bicaz
+34,Bistriţa
+35,Blaj
+36,Boldeşti-Scăieni
+37,Bolintin-Vale
+38,Borşa
+39,Botoşani
+40,Brad
+41,Braşov
+42,Brăila
+43,Breaza
+44,Brezoi
+45,Bucureşti
+46,Budeşti
+47,Buftea
+48,Buhuşi
+49,Bumbeşti-Jiu
+50,Buşteni
+51,Buziaş
+52,Buzău
+53,Calafat
+54,Carei
+55,Caracal
+56,Caransebeş
+57,Cavnic
+58,Călan
+59,Călăraşi
+60,Călimăneşti-Căciulata
+61,Câmpeni
+62,Câmpia Turzii
+63,Câmpina
+64,Câmpulung
+65,Câmpulung Moldovenesc
+66,Cehu Silvaniei
+67,Cernavodă
+68,Chişineu-Criş
+69,Cisnădie
+70,Cluj-Napoca
+71,Codlea
+72,Comarnic
+73,Comăneşti
+74,Constanţa
+75,Copşa Mică
+76,Corabia
+77,Costeşti
+78,Covasna
+79,Craiova
+80,Cristuru Secuiesc
+81,Cugir
+82,Curtici
+83,Curtea de Argeş
+84,Darabani
+85,Dărmăneşti
+86,Dealu
+87,Dej
+88,Deta
+89,Deva
+90,Dorohoi
+91,Drăgăneşti-Olt
+92,Drăgăşani
+93,Drobeta-Turnu Severin
+94,Dumbrăveni
+95,Eforie
+96,Făgăraş
+97,Făget
+98,Fălticeni
+99,Făurei
+100,Feteşti
+101,Fieni
+102,Filiaşi
+103,Focşani
+104,Fundulea
+105,Galaţi
+106,Găeşti
+107,Geoagiu
+108,Gheorgheni
+109,Gherla
+110,Giurgiu
+111,Gura Humorului
+112,Haţeg
+113,Hârlău
+114,Hârşova
+115,Horezu
+116,Huedin
+117,Hunedoara
+118,Huşi
+119,Ianca
+120,Iaşi
+121,Iernut
+122,Ineu
+123,Isaccea
+124,Însurăţei
+125,Întorsura Buzăului
+126,Jibou
+127,Jimbolia
+128,Lehliu Gară
+129,Lipova
+130,Luduş
+131,Lugoj
+132,Lupeni
+133,Mangalia
+134,Marghita
+135,Măcin
+136,Mărăşeşti
+137,Medgidia
+138,Mediaş
+139,Miercurea Ciuc
+140,Mihăileşti
+141,Mioveni
+142,Mizil
+143,Moineşti
+144,Moldova Nouă
+145,Moreni
+146,Motru
+147,Murfatlar
+148,Nădlac
+149,Năsăud
+150,Năvodari
+151,Negreşti
+152,Negreşti-Oaş
+153,Negru Vodă
+154,Nehoiu
+155,Novaci
+156,Nucet
+157,Ocna Mureş
+158,Ocna Sibiului
+159,Ocnele Mari
+160,Odobeşti
+161,Odorheiu Secuiesc
+162,Olteniţa
+163,Oneşti
+164,Oradea
+165,Oraviţa
+166,Orăştie
+167,Orşova
+168,Otopeni
+169,Oţelu Roşu
+170,Ovidiu
+171,Panciu
+172,Paşcani
+173,Pâncota
+174,Petrila
+175,Petroşani
+176,Piatra Neamţ
+177,Piatra Olt
+178,Piteşti
+179,Ploieşti
+180,Plopeni
+181,Pogoanele
+182,Predeal
+183,Pucioasa
+184,Rădăuţi
+185,Râmnicu Sărat
+186,Râmnicu Vâlcea
+187,Râşnov
+188,Reghin
+189,Reşiţa
+190,Roman
+191,Roşiori de Vede
+192,Rovinari
+193,Rupea
+194,Salonta
+195,Satu Mare
+196,Săcele
+197,Săveni
+198,Sângeorz-Băi
+199,Sânnicolau Mare
+200,Scorniceşti
+201,Sebeş
+202,Sebiş
+203,Seini
+204,Segarcea
+205,Sfântu Gheorghe
+206,Sibiu
+207,Sighetu Marmaţiei
+208,Sighişoara
+209,Simeria
+210,Sinaia
+211,Siret
+212,Slatina
+213,Slănic
+214,Slănic Moldova
+215,Slobozia
+216,Solca
+217,Sovata
+218,Strehaia
+219,Suceava
+220,Sulina
+221,Şimleu Silvaniei
+222,Ştei
+223,Tălmaciu
+224,Tăşnad
+225,Târgovişte
+226,Târgu Bujor
+227,Târgu Cărbuneşti
+228,Târgu Frumos
+229,Târgu Jiu
+230,Târgu Lăpuş
+231,Târgu Mureş
+232,Târgu Neamţ
+233,Târgu Ocna
+234,Târgu Secuiesc
+235,Târnăveni
+236,Techirghiol
+237,Tecuci
+238,Teiuş
+239,Timişoara
+240,Tismana
+241,Titu
+242,Topliţa
+243,Topoloveni
+244,Tulcea
+245,Turda
+246,Turnu Măgurele
+247,Ţăndărei
+248,Ţicleni
+249,Uricani
+250,Urlaţi
+251,Urziceni
+252,Valea lui Mihai
+253,Vaslui
+254,Vaşcău
+255,Vatra Dornei
+256,Vălenii de Munte
+257,Vânju Mare
+258,Victoria
+259,Videle
+260,Vişeu de Sus
+261,Vlăhiţa
+262,Vulcan
+263,Zalău
+264,Zărneşti
+265,Zimnicea
+266,Zlatna
+267,Alba
+268,Vrancea
+269,Alba
+270,Alba
+271,Bihor
+272,Teleorman
+273,Sibiu
+274,Caraş-Severin
+275,Hunedoara
+276,Arad
+277,Sibiu
+278,Prahova
+279,Tulcea
+280,Bacău
+281,Mehedinţi
+282,Alba
+283,Maramureş
+284,Maramureş
+285,Olt
+286,Covasna
+287,Prahova
+288,Vâlcea
+289,Caraş-Severin
+290,Vâlcea
+291,Dolj
+292,Harghita
+293,Harghita
+294,Vaslui
+295,Caraş-Severin
+296,Harghita
+297,Bistriţa-Năsăud
+298,Bihor
+299,Galaţi
+300,Neamţ
+301,Bistriţa-Năsăud
+302,Alba
+303,Prahova
+304,Giurgiu
+305,Maramureş
+306,Botoşani
+307,Hunedoara
+308,Braşov
+309,Brăila
+310,Prahova
+311,Vâlcea
+312,Călăraşi
+313,Ilfov
+314,Bacău
+315,Gorj
+316,Prahova
+317,Timiş
+318,Buzău
+319,Dolj
+320,Satu Mare
+321,Olt
+322,Caraş-Severin
+323,Maramureş
+324,Hunedoara
+325,Călăraşi
+326,Vâlcea
+327,Alba
+328,Cluj
+329,Prahova
+330,Argeş
+331,Suceava
+332,Sălaj
+333,Constanţa
+334,Arad
+335,Sibiu
+336,Cluj
+337,Braşov
+338,Prahova
+339,Bacău
+340,Constanţa
+341,Sibiu
+342,Olt
+343,Argeş
+344,Covasna
+345,Dolj
+346,Harghita
+347,Alba
+348,Arad
+349,Argeş
+350,Botoşani
+351,Bacău
+352,Giurgiu
+353,Cluj
+354,Timiş
+355,Hunedoara
+356,Botoşani
+357,Olt
+358,Vâlcea
+359,Mehedinţi
+360,Sibiu
+361,Constanţa
+362,Braşov
+363,Timiş
+364,Suceava
+365,Brăila
+366,Ialomiţa
+367,Dâmboviţa
+368,Dolj
+369,Vrancea
+370,Călăraşi
+371,Galaţi
+372,Dâmboviţa
+373,Hunedoara
+374,Harghita
+375,Cluj
+376,Giurgiu
+377,Suceava
+378,Hunedoara
+379,Iaşi
+380,Constanţa
+381,Vâlcea
+382,Cluj
+383,Hunedoara
+384,Vaslui
+385,Brăila
+386,Iaşi
+387,Mureş
+388,Arad
+389,Tulcea
+390,Brăila
+391,Covasna
+392,Sălaj
+393,Timiş
+394,Călăraşi
+395,Arad
+396,Mureş
+397,Timiş
+398,Hunedoara
+399,Constanţa
+400,Bihor
+401,Tulcea
+402,Vrancea
+403,Constanţa
+404,Sibiu
+405,Harghita
+406,Giurgiu
+407,Argeş
+408,Prahova
+409,Bacău
+410,Caraş-Severin
+411,Dâmboviţa
+412,Gorj
+413,Constanţa
+414,Arad
+415,Bistriţa-Năsăud
+416,Constanţa
+417,Vaslui
+418,Satu Mare
+419,Constanţa
+420,Buzău
+421,Gorj
+422,Bihor
+423,Alba
+424,Sibiu
+425,Vâlcea
+426,Vrancea
+427,Harghita
+428,Călăraşi
+429,Bacău
+430,Bihor
+431,Caraş-Severin
+432,Hunedoara
+433,Mehedinţi
+434,Ilfov
+435,Caraş-Severin
+436,Constanţa
+437,Vrancea
+438,Iaşi
+439,Arad
+440,Hunedoara
+441,Hunedoara
+442,Neamţ
+443,Olt
+444,Argeş
+445,Prahova
+446,Prahova
+447,Buzău
+448,Braşov
+449,Dâmboviţa
+450,Suceava
+451,Buzău
+452,Vâlcea
+453,Braşov
+454,Mureş
+455,Caraş-Severin
+456,Neamţ
+457,Teleorman
+458,Gorj
+459,Braşov
+460,Bihor
+461,Satu Mare
+462,Braşov
+463,Botoşani
+464,Bistriţa-Năsăud
+465,Timiş
+466,Olt
+467,Alba
+468,Arad
+469,Maramureş
+470,Dolj
+471,Covasna
+472,Sibiu
+473,Maramureş
+474,Mureş
+475,Hunedoara
+476,Prahova
+477,Suceava
+478,Olt
+479,Prahova
+480,Bacău
+481,Ialomiţa
+482,Suceava
+483,Mureş
+484,Mehedinţi
+485,Suceava
+486,Tulcea
+487,Sălaj
+488,Bihor
+489,Sibiu
+490,Satu Mare
+491,Dâmboviţa
+492,Galaţi
+493,Gorj
+494,Iaşi
+495,Gorj
+496,Maramureş
+497,Mureş
+498,Neamţ
+499,Bacău
+500,Covasna
+501,Mureş
+502,Constanţa
+503,Galaţi
+504,Alba
+505,Timiş
+506,Gorj
+507,Dâmboviţa
+508,Harghita
+509,Argeş
+510,Tulcea
+511,Cluj
+512,Teleorman
+513,Ialomiţa
+514,Gorj
+515,Hunedoara
+516,Prahova
+517,Ialomiţa
+518,Bihor
+519,Vaslui
+520,Bihor
+521,Suceava
+522,Prahova
+523,Mehedinţi
+524,Braşov
+525,Teleorman
+526,Maramureş
+527,Harghita
+528,Hunedoara
+529,Sălaj
+530,Braşov
+531,Teleorman
+532,Alba
